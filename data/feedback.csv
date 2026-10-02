@@ -1,0 +1,324 @@
+feedback_id,ticket_id,channel,rating,comment,submitted_date,resolved
+1,1,Butik,3,Okänd,2026-04-08,Ja
+2,2,Okänd,3,Okänd,2026-04-12,Ja
+3,3,Butik,5,"Snabb hantering",2026-04-27,Ja
+4,5,Butik,5,Okänd,2026-06-20,Ja
+5,8,Telefon,2,"Helt okej",2026-04-16,Nej
+6,9,App,5,"Blev bättre än väntat",2026-06-12,Ja
+7,10,Okänd,Okänd,"Ingen information gavs",2026-05-22,Ja
+8,11,Telefon,Okänd,"Väntade länge",2026-03-28,Ja
+9,12,Telefon,2,Okänd,2026-03-28,Ja
+10,15,App,3,"Mycket nöjd",2026-05-03,Nej
+11,17,Telefon,2,"Blev bättre än väntat",2026-06-11,Nej
+12,19,Telefon,4,"Väntade länge",2026-05-30,Nej
+13,20,Okänd,1,"Kunde varit tydligare",2026-03-16,Ja
+14,23,Telefon,3,"Skulle rekommendera",2026-06-01,Ja
+15,24,Telefon,Okänd,Okänd,2026-06-13,Ja
+16,26,Butik,3,"Fungerade som förväntat",2026-04-26,Nej
+17,27,Butik,4,Okänd,2026-03-16,Ja
+18,30,Okänd,4,"Fungerade som förväntat",2026-03-08,Ja
+19,35,Telefon,Okänd,"Mycket nöjd",2026-04-14,Nej
+20,39,Okänd,5,"Blev bättre än väntat",2026-05-12,Nej
+21,40,Butik,4,"Missnöjd med tiden",2026-06-08,Nej
+22,41,App,4,"Väntade länge",2026-04-04,Ja
+23,44,Butik,3,"Helt okej",2026-04-10,Ja
+24,46,Telefon,2,"Bra bemötande",2026-03-20,Ja
+25,48,Okänd,5,"Mycket nöjd",2026-05-09,Ja
+26,50,Butik,1,"Fungerade som förväntat",2026-06-19,Ja
+27,52,Okänd,1,"Blev bättre än väntat",2026-05-12,Ja
+28,53,Telefon,5,"Helt okej",2026-06-02,Ja
+29,54,Telefon,5,Okänd,2026-05-13,Nej
+30,55,Telefon,5,"Helt okej",2026-04-01,Nej
+31,56,Butik,4,"Väntade länge",2026-03-21,Nej
+32,57,Butik,2,Okänd,2026-03-06,Ja
+33,59,Telefon,4,Okänd,2026-04-23,Ja
+34,60,Butik,4,Okänd,2026-03-28,Ja
+35,61,Okänd,3,"Skulle rekommendera",2026-03-28,Ja
+36,62,Okänd,3,"Mycket nöjd",2026-04-03,Nej
+37,69,App,3,"Bra bemötande",2026-04-29,Nej
+38,70,Telefon,1,"Kunde varit tydligare",2026-04-06,Ja
+39,71,Butik,4,"Fungerade som förväntat",2026-04-10,Nej
+40,72,App,4,"Krångligt att hitta rätt",2026-05-27,Nej
+41,74,Telefon,5,"Bra bemötande",2026-03-06,Ja
+42,75,App,5,"Snabb hantering",2026-04-14,Nej
+43,78,App,Okänd,"Kunde varit tydligare",2026-05-19,Ja
+44,79,Okänd,3,Okänd,2026-05-17,Ja
+45,81,Okänd,5,"Blev bättre än väntat",2026-06-06,Ja
+46,83,Butik,5,"Ingen information gavs",2026-05-08,Ja
+47,84,App,5,"Ingen information gavs",2026-04-04,Ja
+48,85,Telefon,2,"Blev bättre än väntat",2026-06-01,Nej
+49,87,Okänd,5,"Krångligt att hitta rätt",2026-06-08,Ja
+50,89,Okänd,Okänd,"Snabb hantering",2026-05-02,Ja
+51,90,App,4,"Skulle rekommendera",2026-03-15,Ja
+52,91,Butik,4,"Helt okej",2026-04-12,Nej
+53,92,Okänd,3,"Skulle rekommendera",2026-04-28,Ja
+54,95,Butik,2,"Fungerade som förväntat",2026-05-25,Ja
+55,96,Telefon,4,"Väntade länge",2026-05-13,Ja
+56,97,Okänd,1,"Allt fungerade bra",2026-03-26,Nej
+57,98,Butik,2,"Helt okej",2026-03-03,Nej
+58,99,Butik,4,"Snabb hantering",2026-06-09,Ja
+59,101,Butik,5,Okänd,2026-05-31,Ja
+60,102,App,2,"Ingen information gavs",2026-05-19,Nej
+61,105,Telefon,2,"Allt fungerade bra",2026-04-19,Nej
+62,106,Okänd,5,Okänd,2026-03-16,Nej
+63,107,Telefon,4,Okänd,2026-05-19,Ja
+64,108,App,1,Okänd,2026-05-14,Nej
+65,112,Butik,2,"Fungerade som förväntat",2026-06-11,Ja
+66,114,App,5,"Väntade länge",2026-05-02,Nej
+67,115,Okänd,Okänd,"Mycket nöjd",2026-03-10,Nej
+68,118,Telefon,5,Okänd,2026-05-27,Nej
+69,119,Okänd,2,"Fungerade som förväntat",2026-05-20,Ja
+70,122,Okänd,1,Okänd,2026-05-02,Nej
+71,123,Okänd,4,"Bra bemötande",2026-06-10,Nej
+72,124,App,5,"Allt fungerade bra",2026-06-25,Ja
+73,125,Telefon,1,"Fungerade som förväntat",2026-04-18,Ja
+74,127,Butik,Okänd,"Helt okej",2026-03-28,Nej
+75,129,Telefon,3,"Blev bättre än väntat",2026-04-08,Ja
+76,130,Okänd,5,"Blev bättre än väntat",2026-06-04,Ja
+77,132,Butik,1,Okänd,2026-03-26,Ja
+78,133,Telefon,4,"Kunde varit tydligare",2026-05-15,Ja
+79,138,Telefon,2,"Mycket nöjd",2026-03-15,Nej
+80,140,App,Okänd,Okänd,2026-05-12,Nej
+81,143,Butik,4,"Bra bemötande",2026-05-06,Nej
+82,144,Butik,2,"Bra bemötande",2026-06-23,Ja
+83,146,Okänd,5,"Kunde varit tydligare",2026-06-01,Ja
+84,148,Okänd,3,"Bra bemötande",2026-05-31,Ja
+85,149,Okänd,4,"Helt okej",2026-06-22,Ja
+86,151,Butik,5,Okänd,2026-03-31,Nej
+87,152,App,4,Okänd,2026-04-27,Nej
+88,153,Telefon,3,"Fungerade som förväntat",2026-04-29,Ja
+89,154,Okänd,5,Okänd,2026-04-15,Ja
+90,156,Okänd,2,"Mycket nöjd",2026-06-10,Ja
+91,157,Telefon,Okänd,"Mycket nöjd",2026-03-24,Ja
+92,158,Butik,3,Okänd,2026-05-04,Nej
+93,159,Butik,3,Okänd,2026-04-14,Ja
+94,161,Okänd,4,"Fungerade som förväntat",2026-06-20,Nej
+95,162,Okänd,5,"Allt fungerade bra",2026-04-06,Nej
+96,164,App,5,"Kunde varit tydligare",2026-04-08,Ja
+97,169,Okänd,Okänd,Okänd,2026-05-15,Ja
+98,170,App,0,"Skulle rekommendera",2026-05-31,Nej
+99,177,Telefon,5,"Missnöjd med tiden",2026-03-30,Nej
+100,179,Okänd,5,Okänd,2026-04-24,Nej
+101,184,Okänd,4,"Skulle rekommendera",2026-06-13,Ja
+102,187,Okänd,5,"Allt fungerade bra",2026-06-19,Nej
+103,188,Telefon,5,"Allt fungerade bra",2026-06-24,Nej
+104,189,Okänd,5,"Allt fungerade bra",2026-03-26,Ja
+105,190,Butik,5,"Inga problem",2026-03-19,Nej
+106,194,Okänd,5,"Skulle rekommendera",2026-03-15,Nej
+107,195,Butik,5,"Mycket nöjd",2026-04-16,Ja
+108,196,Okänd,3,"Allt fungerade bra",2026-04-06,Nej
+109,197,Okänd,5,"Helt okej",2026-06-03,Nej
+110,199,Telefon,3,"Skulle rekommendera",2026-05-11,Ja
+111,200,Telefon,5,"Krångligt att hitta rätt",2026-06-29,Ja
+112,201,Butik,3,"Krångligt att hitta rätt",2026-04-03,Ja
+113,203,Okänd,5,"Snabb hantering",2026-04-29,Ja
+114,204,Butik,3,"Väntade länge",2026-04-01,Nej
+115,205,Okänd,5,Okänd,2026-03-26,Nej
+116,207,Butik,4,"Skulle rekommendera",2026-05-18,Nej
+117,211,App,3,"Bra bemötande",2026-04-28,Ja
+118,213,Okänd,3,"Bra bemötande",2026-04-30,Nej
+119,214,Butik,3,"Kunde varit tydligare",2026-05-12,Ja
+120,217,Butik,5,"Bra bemötande",2026-04-20,Ja
+121,219,Telefon,4,Okänd,2026-06-08,Ja
+122,221,Okänd,2,"Missnöjd med tiden",2026-04-06,Nej
+123,223,App,5,"Missnöjd med tiden",2026-04-16,Ja
+124,225,Butik,5,"Inga problem",2026-06-17,Nej
+125,226,Telefon,4,Okänd,2026-05-05,Nej
+126,227,Butik,4,"Ingen information gavs",2026-03-06,Nej
+127,228,Telefon,5,"Allt fungerade bra",2026-05-27,Nej
+128,230,App,5,"Fungerade som förväntat",2026-06-10,Nej
+129,231,App,4,"Mycket nöjd",2026-05-24,Nej
+130,235,App,3,"Allt fungerade bra",2026-06-06,Ja
+131,236,Okänd,5,Okänd,2026-05-22,Ja
+132,238,Butik,3,"Krångligt att hitta rätt",2026-03-20,Nej
+133,240,Telefon,4,"Ingen information gavs",2026-03-14,Nej
+134,241,Okänd,2,"Blev bättre än väntat",2026-03-18,Ja
+135,243,Okänd,5,"Allt fungerade bra",2026-06-08,Ja
+136,245,App,5,Okänd,2026-05-11,Nej
+137,247,Okänd,Okänd,"Allt fungerade bra",2026-05-08,Nej
+138,248,Telefon,2,"Väntade länge",2026-03-13,Nej
+139,250,Okänd,5,"Snabb hantering",2026-06-21,Nej
+140,251,App,3,"Inga problem",2026-05-23,Ja
+141,253,Okänd,Okänd,"Inga problem",2026-06-01,Nej
+142,254,Butik,2,Okänd,2026-03-01,Ja
+143,255,App,5,"Allt fungerade bra",2026-05-20,Nej
+144,256,App,Okänd,"Väntade länge",2026-03-27,Nej
+145,257,Telefon,2,"Mycket nöjd",2026-03-29,Nej
+146,258,Telefon,4,"Väntade länge",2026-04-08,Nej
+147,260,Butik,5,"Missnöjd med tiden",2026-03-04,Nej
+148,261,Telefon,4,"Blev bättre än väntat",2026-03-21,Ja
+149,263,Okänd,Okänd,"Krångligt att hitta rätt",2026-03-28,Nej
+150,264,Telefon,1,Okänd,2026-03-20,Nej
+151,265,Butik,1,Okänd,2026-06-08,Ja
+152,271,Okänd,4,"Ingen information gavs",2026-05-22,Ja
+153,272,App,5,Okänd,2026-05-06,Nej
+154,274,Telefon,5,Okänd,2026-04-05,Ja
+155,275,Telefon,Okänd,Okänd,2026-04-03,Ja
+156,276,Telefon,5,"Inga problem",2026-03-15,Ja
+157,277,Butik,5,"Missnöjd med tiden",2026-03-01,Ja
+158,278,Butik,4,"Blev bättre än väntat",2026-03-20,Ja
+159,282,Okänd,4,Okänd,2026-05-27,Nej
+160,285,Okänd,4,Okänd,2026-04-29,Ja
+161,286,Telefon,4,"Missnöjd med tiden",2026-05-20,Ja
+162,287,Butik,5,"Skulle rekommendera",2026-06-18,Ja
+163,288,App,4,"Blev bättre än väntat",2026-05-08,Nej
+164,290,Okänd,5,Okänd,2026-05-22,Ja
+165,292,Okänd,3,"Snabb hantering",2026-03-20,Ja
+166,293,Okänd,Okänd,Okänd,2026-04-30,Nej
+167,294,Telefon,Okänd,"Fungerade som förväntat",2026-06-09,Nej
+168,297,Okänd,2,"Helt okej",2026-03-01,Nej
+169,298,Okänd,3,"Skulle rekommendera",2026-06-26,Ja
+170,301,App,5,"Bra bemötande",2026-04-30,Nej
+171,302,Telefon,1,"Allt fungerade bra",2026-06-08,Nej
+172,304,App,3,"Mycket nöjd",2026-06-12,Ja
+173,305,Okänd,5,Okänd,2026-04-04,Nej
+174,309,Butik,Okänd,"Snabb hantering",2026-05-18,Nej
+175,311,App,5,"Väntade länge",2026-04-14,Nej
+176,313,Telefon,4,Okänd,2026-05-30,Ja
+177,314,Butik,4,Okänd,2026-06-11,Ja
+178,315,Telefon,Okänd,"Helt okej",2026-03-31,Nej
+179,316,Telefon,1,Okänd,2026-04-26,Nej
+180,319,App,3,"Missnöjd med tiden",2026-05-30,Ja
+181,322,Okänd,5,"Allt fungerade bra",2026-03-09,Nej
+182,328,Butik,Okänd,"Inga problem",2026-05-15,Ja
+183,331,Butik,3,"Fungerade som förväntat",2026-03-04,Ja
+184,332,Telefon,3,"Snabb hantering",2026-05-26,Ja
+185,333,Telefon,5,"Snabb hantering",2026-05-27,Ja
+186,334,Telefon,4,"Snabb hantering",2026-06-09,Ja
+187,335,Butik,5,"Fungerade som förväntat",2026-05-03,Ja
+188,336,Okänd,3,Okänd,2026-05-25,Nej
+189,338,Telefon,3,"Skulle rekommendera",2026-05-13,Nej
+190,339,Okänd,Okänd,"Helt okej",2026-04-11,Nej
+191,342,Okänd,5,Okänd,2026-06-18,Nej
+192,343,Telefon,5,"Blev bättre än väntat",2026-06-10,Ja
+193,344,Telefon,Okänd,"Bra bemötande",2026-03-15,Nej
+194,347,App,3,Okänd,2026-03-21,Nej
+195,350,Telefon,4,"Bra bemötande",2026-05-03,Ja
+196,351,Okänd,1,Okänd,2026-03-26,Ja
+197,352,App,3,"Ingen information gavs",2026-04-23,Ja
+198,354,Okänd,4,"Helt okej",2026-03-27,Ja
+199,358,App,5,"Blev bättre än väntat",2026-05-01,Nej
+200,359,Telefon,4,"Bra bemötande",2026-04-01,Nej
+201,360,Telefon,4,"Snabb hantering",2026-03-08,Nej
+202,361,Okänd,Okänd,"Kunde varit tydligare",2026-05-19,Nej
+203,362,Telefon,3,"Skulle rekommendera",2026-05-22,Ja
+204,363,Okänd,5,Okänd,2026-05-17,Ja
+205,365,App,5,Okänd,2026-04-04,Nej
+206,367,Okänd,3,"Kunde varit tydligare",2026-05-02,Ja
+207,369,Butik,4,"Helt okej",2026-06-24,Nej
+208,370,Okänd,4,"Fungerade som förväntat",2026-05-18,Ja
+209,371,Okänd,1,"Inga problem",2026-06-23,Ja
+210,372,Telefon,0,Okänd,2026-03-26,Nej
+211,374,App,4,Okänd,2026-05-18,Nej
+212,378,Butik,5,"Mycket nöjd",2026-05-25,Nej
+213,379,Telefon,5,"Missnöjd med tiden",2026-06-07,Ja
+214,380,Okänd,3,"Fungerade som förväntat",2026-04-09,Ja
+215,381,Telefon,5,Okänd,2026-05-24,Ja
+216,382,Okänd,5,"Mycket nöjd",2026-03-08,Ja
+217,383,Okänd,3,"Fungerade som förväntat",2026-04-06,Ja
+218,384,Butik,4,"Inga problem",2026-06-12,Ja
+219,386,Telefon,3,Okänd,2026-04-11,Ja
+220,387,Butik,4,Okänd,2026-04-27,Ja
+221,388,Butik,1,Okänd,2026-03-31,Nej
+222,389,Telefon,4,Okänd,2026-04-18,Nej
+223,391,Telefon,4,"Helt okej",2026-06-15,Nej
+224,397,App,2,"Inga problem",2026-03-14,Ja
+225,401,Butik,5,"Ingen information gavs",2026-05-27,Nej
+226,402,Telefon,4,"Kunde varit tydligare",2026-04-16,Nej
+227,404,Telefon,Okänd,"Snabb hantering",2026-06-16,Nej
+228,405,Butik,Okänd,Okänd,2026-03-16,Ja
+229,407,Okänd,3,"Helt okej",2026-06-17,Ja
+230,408,Telefon,3,Okänd,2026-03-26,Ja
+231,411,Telefon,4,"Krångligt att hitta rätt",2026-06-20,Nej
+232,413,App,1,"Helt okej",2026-03-27,Ja
+233,414,Telefon,5,Okänd,2026-05-24,Nej
+234,415,Okänd,3,"Snabb hantering",2026-03-15,Ja
+235,417,Telefon,4,"Mycket nöjd",2026-05-24,Nej
+236,418,Butik,3,"Helt okej",2026-05-17,Ja
+237,419,Telefon,5,"Krångligt att hitta rätt",2026-04-23,Nej
+238,420,Okänd,1,"Fungerade som förväntat",2026-05-21,Ja
+239,421,Okänd,4,"Allt fungerade bra",2026-04-01,Nej
+240,423,Telefon,4,Okänd,2026-04-19,Nej
+241,424,App,3,"Krångligt att hitta rätt",2026-03-03,Ja
+242,426,Okänd,4,Okänd,2026-03-10,Ja
+243,428,Butik,Okänd,"Väntade länge",2026-05-01,Ja
+244,430,App,5,"Ingen information gavs",2026-05-29,Ja
+245,432,Telefon,4,"Fungerade som förväntat",2026-05-07,Ja
+246,433,Butik,1,"Blev bättre än väntat",2026-05-06,Ja
+247,436,App,3,Okänd,2026-06-01,Nej
+248,439,Okänd,Okänd,"Krångligt att hitta rätt",2026-04-23,Ja
+249,440,Telefon,5,Okänd,2026-05-14,Ja
+250,443,Butik,4,"Helt okej",2026-06-23,Nej
+251,444,App,1,"Skulle rekommendera",2026-03-10,Ja
+252,448,Butik,5,"Blev bättre än väntat",2026-05-06,Nej
+253,449,App,4,Okänd,2026-05-04,Nej
+254,451,Okänd,5,"Missnöjd med tiden",2026-05-25,Ja
+255,452,Butik,5,Okänd,2026-05-22,Ja
+256,453,Butik,4,Okänd,2026-04-12,Ja
+257,456,Okänd,4,"Helt okej",2026-06-25,Nej
+258,458,App,4,Okänd,2026-06-13,Ja
+259,459,App,4,Okänd,2026-04-23,Ja
+260,460,Telefon,5,"Väntade länge",2026-05-18,Nej
+261,466,Butik,3,"Mycket nöjd",2026-05-08,Ja
+262,469,Butik,3,Okänd,2026-04-12,Ja
+263,471,Butik,5,"Krångligt att hitta rätt",2026-06-05,Ja
+264,474,App,1,"Kunde varit tydligare",2026-06-12,Ja
+265,479,Okänd,3,"Snabb hantering",2026-03-23,Nej
+266,480,Okänd,3,Okänd,2026-06-02,Ja
+267,483,Okänd,3,Okänd,2026-03-23,Nej
+268,484,Butik,1,Okänd,2026-04-07,Ja
+269,485,Okänd,4,"Ingen information gavs",2026-06-12,Nej
+270,486,Okänd,5,"Snabb hantering",2026-04-10,Nej
+271,487,Okänd,4,"Krångligt att hitta rätt",2026-03-06,Ja
+272,488,Telefon,4,"Mycket nöjd",2026-06-27,Nej
+273,489,App,4,"Bra bemötande",2026-06-23,Ja
+274,490,Telefon,4,Okänd,2026-05-08,Ja
+275,496,App,1,Okänd,2026-05-30,Ja
+276,497,Telefon,5,"Blev bättre än väntat",2026-05-19,Nej
+277,498,Telefon,Okänd,Okänd,2026-03-12,Nej
+278,500,Telefon,2,"Ingen information gavs",2026-05-18,Ja
+279,502,App,4,"Ingen information gavs",2026-04-08,Nej
+280,503,Telefon,5,"Ingen information gavs",2026-03-28,Nej
+281,504,App,3,Okänd,2026-04-19,Nej
+282,506,Telefon,4,"Missnöjd med tiden",2026-03-04,Nej
+283,507,Telefon,4,"Väntade länge",2026-05-31,Nej
+284,508,Okänd,Okänd,Okänd,2026-06-27,Ja
+285,514,App,4,"Inga problem",2026-06-06,Nej
+286,516,Telefon,4,"Missnöjd med tiden",2026-05-08,Ja
+287,519,App,4,"Ingen information gavs",2026-04-29,Ja
+288,521,Butik,Okänd,"Missnöjd med tiden",2026-04-07,Ja
+289,522,App,5,"Ingen information gavs",2026-05-21,Nej
+290,523,Okänd,Okänd,Okänd,2026-03-29,Ja
+291,524,Butik,5,"Fungerade som förväntat",2026-06-09,Nej
+292,525,Telefon,3,"Kunde varit tydligare",2026-05-28,Nej
+293,526,Telefon,4,"Krångligt att hitta rätt",2026-04-15,Nej
+294,527,Telefon,3,Okänd,2026-05-11,Ja
+295,529,Telefon,1,"Helt okej",2026-06-10,Nej
+296,530,Okänd,4,"Blev bättre än väntat",2026-05-23,Ja
+297,531,Telefon,4,"Inga problem",2026-04-02,Ja
+298,532,Okänd,4,"Fungerade som förväntat",2026-06-07,Ja
+299,533,Telefon,4,"Väntade länge",2026-05-17,Nej
+300,534,Butik,4,"Väntade länge",2026-05-06,Nej
+301,535,App,5,Okänd,2026-03-15,Ja
+302,537,Okänd,5,"Helt okej",2026-06-27,Ja
+303,539,App,1,Okänd,2026-03-04,Ja
+304,540,Okänd,5,Okänd,2026-06-09,Ja
+305,541,Butik,5,Okänd,2026-03-29,Ja
+306,543,Butik,3,"Väntade länge",2026-03-15,Nej
+307,545,Butik,2,"Krångligt att hitta rätt",2026-06-07,Nej
+308,547,App,3,Okänd,2026-03-31,Ja
+309,548,App,5,"Väntade länge",2026-05-18,Ja
+310,549,Butik,4,"Helt okej",2026-05-01,Ja
+311,550,Butik,4,Okänd,2026-06-26,Nej
+312,557,Telefon,5,"Allt fungerade bra",2026-03-19,Nej
+313,565,Butik,1,Okänd,2026-04-04,Nej
+314,568,Okänd,4,Okänd,2026-05-28,Ja
+315,570,Okänd,0,"Bra bemötande",2026-06-08,Ja
+316,574,Butik,1,"Blev bättre än väntat",2026-05-27,Ja
+317,580,Telefon,5,"Mycket nöjd",2026-06-03,Nej
+318,582,App,5,"Fungerade som förväntat",2026-06-11,Nej
+319,584,Butik,4,Okänd,2026-03-01,Nej
+320,585,Telefon,Okänd,Okänd,2026-04-22,Ja
+321,586,Okänd,4,"Missnöjd med tiden",2026-04-15,Nej
+322,588,App,5,"Kunde varit tydligare",2026-03-12,Nej
+323,589,Telefon,3,"Fungerade som förväntat",2026-05-26,Nej
